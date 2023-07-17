@@ -1,0 +1,20 @@
+.foto{
+    width: 100px;
+}
+.blok_foto {
+    background: rgb(5, 157, 203);
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 160px;
+    height: 190px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+body {
+    background: linear-gradient(white,rgb(67, 203, 201));
+}
+*{
+    font-family: "Arial Arrow";
+}
